@@ -1,0 +1,89 @@
+Aptitude Assignment 4 :-
+===========================
+
+1. A leak in the bottom of a tank can empty the full tank in 6 hours. An inlet pipe fills
+water at the rate of 4 litres per minute. When the tank is full, the inlet is opened,
+and due to the leak, the tank is empty in 8 hours. Find the capacity of the tank.?
+
+Ans. Let the capacity of the tank be x liters.
+
+When the tank is full, the rate at which the water is being filled by the inlet pipe is 4 liters per minute. The rate at which the water is being emptied due to the leak is x/6 liters per minute.
+
+So, the net rate at which the water is being filled is 4 - (x/6) liters per minute.
+
+When the tank is empty, the rate at which the water is being filled by the inlet pipe is still 4 liters per minute. The rate at which the water is being emptied due to the leak is x/8 liters per minute.
+
+So, the net rate at which the water is being filled is 4 - (x/8) liters per minute.
+
+Since the net rate at which the water is being filled is the same when the tank is full and when the tank is empty, we can equate the two expressions:
+4 - (x/6) = 4 - (x/8)
+
+Solving for x, we get:
+x/6 - x/8 = 2/8
+
+Multiplying both sides by 48, we get:
+8x - 6x = 24
+
+2x = 24
+
+x = 12
+
+Therefore, the capacity of the tank is 12 liters.
+
+
+2. Of the 1000 inhabitants in a town, 60% are males, 20% are literate. If 25% of all the
+inhabitants 25%, are literate, then what percentage of females are literate?
+
+
+Ans.Let's assume there are x females in the town. Then, there are 1000-x males in the town.
+Out of x females, 25% are literate, which is 0.25x.
+Out of 1000-x males, 20% are literate, which is 0.2(1000-x).
+So, the total number of literate people in the town is 0.25x + 0.2(1000-x).
+Since the total number of literate people in the town is 25% of the total population, we have:
+0.25x + 0.2(1000-x) = 0.25 * 1000
+Solving for x, we find that x = 800, meaning there are 800 females in the town.
+Therefore, the percentage of literate females is 0.25x / x * 100 = 0.25 * 800 / 800 * 100 = 25%.
+
+
+3. In an examination 80% candidates passed in English and 85% candidates passed
+in Mathematics. If 73% of candidates passed in both these subjects, what percent
+of candidates failed in both the subjects?
+
+Ans.Let the number of candidates be N.
+
+The number of candidates who passed English is 0.8N and the number who passed Maths is 0.85N.
+
+The number of candidates who passed both is 0.73N.
+
+So, the number of candidates who failed in both is N - 0.73N = 0.27N.
+
+The percentage of candidates who failed in both is (0.27N / N) * 100 = 27%.
+
+
+
+4. The monthly income of a person is 13,500, and his monthly expenditure is 9,000.
+Next year's income increased by 14%, and his expenditure increased by 7%. Find
+percent increase in his savings is?
+
+Ans.Let's say the person's monthly income is x. The person's monthly saving would be x - 9000.
+
+Next year's income will increase to 1.14x and next year's expenditure will increase to 9,630.
+
+The person's next year's saving will be (1.14x) - 9,630.
+
+To find the percent increase, we need to divide the increase in saving by the original saving and multiply by 100.
+
+(1.14x - 9,630 - x + 9000) / (x - 9000) * 100.
+
+This gives us a percent increase of (0.14x - 630) / (x - 9000) * 100 = 14 - 630 / x - 9000 * 100 = 14 / x * 100 - 630 / x * 100 = 14%.
+
+
+5. 49 pumps can empty a tank in 10 days, working 10 hours a day. if 70 pumps are
+used for 7 hours each day then in how many days the tank can be emptied?
+
+Ans. Let the capacity of the tank be C. The rate at which 49 pumps can empty the tank is C/10.
+The rate at which 70 pumps can empty the tank is 70 * (7/10) = 49 * (7/10) * (pumps rate/49) = 49 * (7/10) * (70/49) = 70 * (7/10).
+Let x be the number of days to empty the tank with 70 pumps.
+70 * (7/10) * x = C
+x = C / (70 * (7/10)) = C / 49.
+Hence, the tank can be emptied in 49 days.
